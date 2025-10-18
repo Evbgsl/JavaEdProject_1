@@ -10,7 +10,7 @@ public class Calculator {
         while (true) {
             if (isFirstInput) {
                 // ввод первого числа
-                // test_commit_2_3
+                // test_commit_2_3_4
                 System.out.print("Введите число: ");
                 while (!scanner.hasNextDouble()) {
                     System.out.println("Ошибка: нужно ввести число!");
